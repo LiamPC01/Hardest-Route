@@ -5872,3 +5872,575 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.03-12.30.54:199][740]LogPlayLevel: Display: Destroying online subsystem :Context_68
 [2023.02.03-12.30.55:811][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
 [2023.02.03-12.31.09:885][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.02.03-12.32.45:654][198]LogDerivedDataCache: C:/Users/2001555/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.044 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.03-12.32.47:380][339]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.03-12.32.47:393][339]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.03-12.32.47:406][340]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.03-12.32.50:206][615]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2023.02.03-12.32.50:207][615]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.03-12.33.15:389][232]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.03-12.33.15:401][232]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.03-12.33.15:416][233]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.03-12.33.26:084][289]LogContentBrowser: Attempting asset rename: NewFolder -> Finished-Assets
+[2023.02.03-12.33.26:085][289]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.03-12.33.31:921][543]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\2001555\Downloads\room_mesh.fbx)
+[2023.02.03-12.33.31:937][543]LogFbx: Loading FBX Scene from C:\Users\2001555\Downloads\room_mesh.fbx
+[2023.02.03-12.33.31:943][543]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.03-12.33.33:976][543]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.03-12.33.34:003][543]LogMaterial: Display: Missing cached shadermap for room_tex in PCD3D_SM5, Default, SM5 (DDC key hash: AF9194E8FA0B5CA425C2AB85992A8987C1B859CD), compiling. 
+[2023.02.03-12.33.34:015][543]LogStaticMesh: Display: Building static mesh room_mesh...
+[2023.02.03-12.33.34:048][543]LogStaticMesh: Built static mesh [0.03s] /Game/Oli_BPs/Assets/Finished-Assets/room_mesh.room_mesh
+[2023.02.03-12.33.34:081][543]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.03-12.33.35:435][543]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x63 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 60% occupied, 370 triangles, room_mesh
+[2023.02.03-12.33.37:024][621]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x63 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 60% occupied, 370 triangles, room_mesh
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: ================================================
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Total job queries 58, among them cache hits 20 (34.48%)
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Tracking 19 distinct input hashes that result in 13 distinct outputs (68.42%)
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Jobs assigned 22, completed 19 (86.36%)
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Average time worker was idle: 254.18 s
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 1.52 s
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Job execution time: average 2.15 s, max 4.82 s
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Job life time (pending + execution): average 2.38 s, max 4.88
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.50 s
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Average processing rate: 1.81 jobs/sec
+[2023.02.03-12.33.37:799][661]LogShaderCompilers: Display: Effective parallelization: 1.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.25 sec, max 1.25 sec, min 1.25 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.20 sec, max 1.22 sec, min 1.19 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.26% of total time (compiled    2 times, average 1.20 sec, max 1.22 sec, min 1.19 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.80% of total time (compiled    2 times, average 1.16 sec, max 1.22 sec, min 1.10 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.92% of total time (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.90% of total time (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.51% of total time (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2023.02.03-12.33.37:800][661]LogShaderCompilers: Display: ================================================
+[2023.02.03-12.33.38:374][699]LogSlate: Window 'Message Log' being destroyed
+[2023.02.03-12.33.38:382][699]LogSlate: Window 'Message Log' being destroyed
+[2023.02.03-12.33.52:194][293]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Oli_BPs/Assets/Finished-Assets/room_tex.room_tex
+[2023.02.03-12.33.52:196][293]LogMaterial: Display: Missing cached shadermap for Preview:room_tex in PCD3D_SM5, Default, SM5 (DDC key hash: E5FF5C3517661E3BA5D7D1054829DD26F6FDAA25), compiling. 
+[2023.02.03-12.33.52:217][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-12.33.52:327][293]LogMaterial: Display: Missing cached shadermap for Preview:room_tex in PCD3D_SM5, Default, SM5 (DDC key hash: 9455EE47733574B332DE129FBBAA72C1C516E926), compiling. 
+[2023.02.03-12.33.52:330][293]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E65FDCDEC04539B0A2E980DF68808CC331301D60), compiling. 
+[2023.02.03-12.33.52:368][293]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.03-12.33.52:368][293]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.03-12.33.52:368][293]MaterialEditorStats: Shader Count: 0
+[2023.02.03-12.33.52:379][293]LogViewport: Scene viewport resized to 504x629, mode Windowed.
+[2023.02.03-12.33.52:491][295]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.03-12.33.52:491][295]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.03-12.33.52:491][295]MaterialEditorStats: Shader Count: 4
+[2023.02.03-12.34.39:344][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.02.03-12.34.39:348][661]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.099
+[2023.02.03-12.34.39:349][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Oli_BPs/Assets/Finished-Assets/room_mesh] ([1] browsable assets)...
+[2023.02.03-12.34.39:422][661]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/room_mesh.room_mesh]
+[2023.02.03-12.34.39:422][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Oli_BPs/Assets/Finished-Assets/room_mesh]
+[2023.02.03-12.34.39:429][661]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Oli_BPs/Assets/Finished-Assets/room_mesh_Auto9
+[2023.02.03-12.34.39:429][661]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/room_mesh_Auto98392F4424CCC37A6D7343EBDC841E2B9.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/Autosaves/Game/Oli_BPs/Assets/Finished-Assets/room_mesh_Auto9.uasset'
+[2023.02.03-12.34.39:431][661]LogFileHelpers: Auto-saving content packages took 0.083
+[2023.02.03-12.37.07:362][196]LogSlate: Window 'Message' being destroyed
+[2023.02.03-12.37.07:366][196]Message dialog closed, result: Cancel, title: Message, text: Do you want to replace the existing asset?
+
+An asset already exists at the import location: /Game/Oli_BPs/Assets/Finished-Assets/room_tex
+[2023.02.03-12.37.15:009][624]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-12.37.15:009][624]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-12.37.16:284][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-12.37.16:284][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-12.37.18:609][884]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-12.37.18:609][884]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-12.37.23:731][383]LogContentBrowser: Attempting asset rename: room_tex -> room_mat
+[2023.02.03-12.37.25:929][383]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.02.03-12.37.27:031][383]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000005s (1.142024s overbudget)
+[2023.02.03-12.37.27:042][383]LogShaderCompilers: Display: ================================================
+[2023.02.03-12.37.27:042][383]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.03-12.37.27:042][383]LogShaderCompilers: Display: Total job queries 92, among them cache hits 34 (36.96%)
+[2023.02.03-12.37.27:042][383]LogShaderCompilers: Display: Tracking 34 distinct input hashes that result in 13 distinct outputs (38.24%)
+[2023.02.03-12.37.27:042][383]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.02.03-12.37.27:042][383]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.03-12.37.27:042][383]LogShaderCompilers: Display: Shaders Compiled: 42
+[2023.02.03-12.37.27:042][383]LogShaderCompilers: Display: Jobs assigned 34, completed 34 (100.00%)
+[2023.02.03-12.37.27:042][383]LogShaderCompilers: Display: Average time worker was idle: 342.09 s
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: Time job spent in pending queue: average 0.39 s, longest 2.20 s
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: Job execution time: average 2.06 s, max 4.82 s
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: Job life time (pending + execution): average 2.45 s, max 4.88
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.26 s
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: Average processing rate: 2.38 jobs/sec
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: Effective parallelization: 2.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.46 sec, max 1.57 sec, min 1.36 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.44 sec, max 1.53 sec, min 1.35 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 1.36 sec, max 1.44 sec, min 1.28 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.35 sec, max 1.44 sec, min 1.25 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 1.33 sec, max 1.52 sec, min 1.13 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.02% of total time (compiled    3 times, average 1.13 sec, max 1.22 sec, min 0.98 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.68% of total time (compiled    3 times, average 1.09 sec, max 1.22 sec, min 0.94 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.79% of total time (compiled    2 times, average 1.46 sec, max 1.57 sec, min 1.36 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.70% of total time (compiled    2 times, average 1.44 sec, max 1.53 sec, min 1.35 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.25% of total time (compiled    2 times, average 1.36 sec, max 1.44 sec, min 1.28 sec)
+[2023.02.03-12.37.27:043][383]LogShaderCompilers: Display: ================================================
+[2023.02.03-12.37.27:092][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oli_BPs/Assets/Finished-Assets/room_mat" FILE="D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Assets/Finished-Assets/room_mat.uasset" SILENT=true
+[2023.02.03-12.37.27:095][383]LogSavePackage: Moving output files for package: /Game/Oli_BPs/Assets/Finished-Assets/room_mat
+[2023.02.03-12.37.27:095][383]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/room_mat13B36D2449A32363147A979C53410B66.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Assets/Finished-Assets/room_mat.uasset'
+[2023.02.03-12.37.27:224][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.02.03-12.37.27:313][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.02.03-12.37.27:404][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.02.03-12.37.27:417][383]AssetCheck: New page: Asset Save: room_mat
+[2023.02.03-12.37.27:417][383]LogContentValidation: Display: Validating Material /Game/Oli_BPs/Assets/Finished-Assets/room_mat.room_mat
+[2023.02.03-12.37.31:689][585]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\2001555\Downloads\room_tex.png)
+[2023.02.03-12.37.31:781][585]LogTexture: Display: Building textures: /Game/Oli_BPs/Assets/Finished-Assets/room_tex.room_tex (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.03-12.37.41:596][ 42]LogMaterial: Display: Missing cached shadermap for Preview:room_tex in PCD3D_SM5, Default, SM5 (DDC key hash: 9EE264F7096C6798C4A111398F1DF86CE48E23E2), compiling. 
+[2023.02.03-12.37.41:598][ 42]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E21B94288EB665C03E4E7D774861404FE71FD62E), compiling. 
+[2023.02.03-12.37.41:601][ 42]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5B741E4490F14AAC8130E64836F0FF60FAF25C54), compiling. 
+[2023.02.03-12.37.41:603][ 42]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C5923A2A52DE656373E6EC937E32555003DAEFF3), compiling. 
+[2023.02.03-12.37.44:746][208]LogMaterial: Display: Missing cached shadermap for Preview:room_tex in PCD3D_SM5, Default, SM5 (DDC key hash: 19377E954E6A4B62D8DB199EC8579738117FD880), compiling. 
+[2023.02.03-12.37.44:751][208]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.03-12.37.44:751][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.03-12.37.44:751][208]MaterialEditorStats: Shader Count: 0
+[2023.02.03-12.37.45:853][262]LogMaterial: Display: Missing cached shadermap for Preview:room_tex in PCD3D_SM5, Default, SM5 (DDC key hash: 9EA436E6CFE5CE3980479E18143D60172C0EE630), compiling. 
+[2023.02.03-12.37.45:855][262]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 86E4AC07545A80382E0598FDE3752CC4CE694F25), compiling. 
+[2023.02.03-12.37.45:861][262]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.03-12.37.45:861][262]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.03-12.37.45:861][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.03-12.37.45:861][262]MaterialEditorStats: Shader Count: 0
+[2023.02.03-12.37.46:680][301]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.03-12.37.46:680][301]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.03-12.37.46:680][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.03-12.37.46:680][301]MaterialEditorStats: Shader Count: 1
+[2023.02.03-12.37.47:110][319]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.03-12.37.47:110][319]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.03-12.37.47:110][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.03-12.37.47:110][319]MaterialEditorStats: Shader Count: 4
+[2023.02.03-12.37.48:138][376]LogMaterialEditor: Saving and Compiling material room_mat
+[2023.02.03-12.37.49:052][376]LogMaterial: Display: Missing cached shadermap for Preview:room_tex in PCD3D_SM5, Default, SM5 (DDC key hash: D88729BF728D714167E7A9AD1FA9B1C7D804F88B), compiling. 
+[2023.02.03-12.37.49:065][376]LogMaterial: Display: Missing cached shadermap for room_mat in PCD3D_SM5, Default, SM5 (DDC key hash: EDE5C66DD89FE12A694915B86DA34540EDC177E3), compiling. 
+[2023.02.03-12.37.49:171][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.03-12.37.50:482][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.03-12.37.52:652][376]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.02.03-12.37.53:743][376]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002023s (1.133798s overbudget)
+[2023.02.03-12.37.53:813][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oli_BPs/Assets/Finished-Assets/room_mat" FILE="D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Assets/Finished-Assets/room_mat.uasset" SILENT=true
+[2023.02.03-12.37.53:817][376]LogSavePackage: Moving output files for package: /Game/Oli_BPs/Assets/Finished-Assets/room_mat
+[2023.02.03-12.37.53:819][376]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/room_mat6097B91346C3AA06EAEA56A6C8CBDB6A.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Assets/Finished-Assets/room_mat.uasset'
+[2023.02.03-12.37.53:843][376]AssetCheck: New page: Asset Save: room_mat
+[2023.02.03-12.37.53:843][376]LogContentValidation: Display: Validating Material /Game/Oli_BPs/Assets/Finished-Assets/room_mat.room_mat
+[2023.02.03-12.37.53:845][376]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.02.03-12.37.53:845][376]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.02.03-12.37.53:845][376]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.03-12.37.53:845][376]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.03-12.37.53:845][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.03-12.37.53:845][376]MaterialEditorStats: Shader Count: 16
+[2023.02.03-12.38.13:113][624]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.38.16:148][766]BlueprintLog: New page: Compile Room_BP
+[2023.02.03-12.38.16:297][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.02.03-12.38.16:552][769]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.38.16:733][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oli_BPs/Room_BP" FILE="D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Room_BP.uasset" SILENT=true
+[2023.02.03-12.38.16:741][773]LogSavePackage: Moving output files for package: /Game/Oli_BPs/Room_BP
+[2023.02.03-12.38.16:743][773]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/Room_BP31851662409DA37A7AD72984909781B4.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Room_BP.uasset'
+[2023.02.03-12.38.16:777][773]AssetCheck: New page: Asset Save: Room_BP
+[2023.02.03-12.38.16:777][773]LogContentValidation: Display: Validating Blueprint /Game/Oli_BPs/Room_BP.Room_BP
+[2023.02.03-12.38.19:720][998]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.03-12.38.19:735][998]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.03-12.38.19:735][998]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.03-12.38.19:735][998]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.38.19:735][998]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.03-12.38.19:735][998]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.03-12.38.19:735][998]LogWorldPartition: Display: GetPartitionedActors took 61 us
+[2023.02.03-12.38.19:735][998]LogWorldPartition: Display: GenerateStreaming took 351 us
+[2023.02.03-12.38.19:736][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.03-12.38.19:736][998]PIE: New page: PIE session: TopDownMap (3 Feb 2023, 12:38:19)
+[2023.02.03-12.38.19:736][998]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.38.19:744][998]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.03-12.38.19:744][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007790s)
+[2023.02.03-12.38.19:744][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007859s)
+[2023.02.03-12.38.19:744][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-12.38.19:745][998]LogAIModule: Creating AISystem for world TopDownMap
+[2023.02.03-12.38.19:745][998]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.03-12.38.19:745][998]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.03-12.38.19:747][998]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.03-12.38.19:747][998]LogPlayLevel: PIE: World Init took: (0.003396s)
+[2023.02.03-12.38.19:835][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.03-12.38.19:838][998]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.02.03-12.38.19:838][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-12.38.19:838][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-12.38.19:838][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-12.38.19:838][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-12.38.19:838][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-12.38.19:838][998]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.03-12.38.19:838][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-12.38.19:838][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-12.38.19:838][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-12.38.19:839][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-12.38.19:839][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-12.38.19:841][998]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.03-12.38.19:863][998]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.03-12.38.19:863][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-12.38.19:863][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-12.38.19:863][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-12.38.19:864][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2023.02.03-12.38.19:864][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2023.02.03-12.38.19:866][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2023.02.03-12.38.19:866][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2023.02.03-12.38.19:866][998]LogInit: FAudioDevice initialized.
+[2023.02.03-12.38.19:866][998]LogAudio: Display: Audio Device (ID: 55) registered with world 'TopDownMap'.
+[2023.02.03-12.38.19:882][998]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.03-12.38.19:884][998]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.02.03-12.38.19
+[2023.02.03-12.38.19:884][998]LogWorld: Bringing up level for play took: 0.002081
+[2023.02.03-12.38.19:887][998]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.02.03-12.38.19:890][998]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1580.000 Y=2510.000 Z=942.013
+[2023.02.03-12.38.19:890][998]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.38.19:891][998]PIE: Server logged in
+[2023.02.03-12.38.19:892][998]PIE: Play in editor total start time 0.159 seconds.
+[2023.02.03-12.38.20:573][ 46]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.38.23:756][414]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.38.32:630][467]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.38.45:432][982]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.38.53:416][917]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.39.18:451][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.39.18:451][786]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.39.18:451][786]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-12.39.18:452][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.39.18:465][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.03-12.39.18:478][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.39.18:580][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-12.39.18:581][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.02.03-12.39.18:583][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.02.03-12.39.18:588][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.39.18:593][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.02.03-12.39.18:639][787]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.02.03-12.39.20:871][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.02.03-12.39.20:933][990]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/ZI/M3WSJJOHZ4BOVI71VRZ58F
+[2023.02.03-12.39.20:934][990]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/M3WSJJOHZ4BOVI71VRZ58F2F5BA3DF4187DCFC613D68A7ED8A415C.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/ZI/M3WSJJOHZ4BOVI71VRZ58F.uasset'
+[2023.02.03-12.39.20:939][990]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/FU/4F3DD1W2PU2XURAENKODYA
+[2023.02.03-12.39.20:940][990]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/4F3DD1W2PU2XURAENKODYA669CB8AB453268272CD47ABC7BCECA1B.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/FU/4F3DD1W2PU2XURAENKODYA.uasset'
+[2023.02.03-12.39.20:945][990]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/4P/DDY371YS23671U3TCKGOTE
+[2023.02.03-12.39.20:945][990]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/DDY371YS23671U3TCKGOTE34D94F45476B6285F2D1FEA0A38B568F.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/4P/DDY371YS23671U3TCKGOTE.uasset'
+[2023.02.03-12.39.20:950][990]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/KS/YRADN2RYT8CPJP2AUV7WHJ
+[2023.02.03-12.39.20:951][990]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/YRADN2RYT8CPJP2AUV7WHJ23A6EFC94D344174DC8FE888A1F2D41D.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/KS/YRADN2RYT8CPJP2AUV7WHJ.uasset'
+[2023.02.03-12.39.20:953][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oli_BPs/Assets/Finished-Assets/room_mesh" FILE="D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Assets/Finished-Assets/room_mesh.uasset" SILENT=true
+[2023.02.03-12.39.20:958][990]LogSavePackage: Moving output files for package: /Game/Oli_BPs/Assets/Finished-Assets/room_mesh
+[2023.02.03-12.39.20:958][990]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/room_mesh8408150C436941D7F6F0AEBD2208EA9F.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Assets/Finished-Assets/room_mesh.uasset'
+[2023.02.03-12.39.20:961][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oli_BPs/Assets/Finished-Assets/room_tex" FILE="D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Assets/Finished-Assets/room_tex.uasset" SILENT=true
+[2023.02.03-12.39.21:103][990]LogSavePackage: Moving output files for package: /Game/Oli_BPs/Assets/Finished-Assets/room_tex
+[2023.02.03-12.39.21:104][990]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/room_tex2EC82CBC45556E1B805A50BE71D5C202.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Assets/Finished-Assets/room_tex.uasset'
+[2023.02.03-12.39.21:130][990]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-12.39.21:130][990]LogContentValidation: Display: Validating Room_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Room_BP_C_UAID_A4BB6D9AAB7F076301_1409868947
+[2023.02.03-12.39.21:130][990]LogContentValidation: Display: Validating Room_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Room_BP_C_UAID_A4BB6D9AAB7F076301_1409866946
+[2023.02.03-12.39.21:130][990]LogContentValidation: Display: Validating Room_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Room_BP_C_UAID_A4BB6D9AAB7F066301_2147232769
+[2023.02.03-12.39.21:130][990]LogContentValidation: Display: Validating Room_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Room_BP_C_UAID_A4BB6D9AAB7F066301_1393637768
+[2023.02.03-12.39.21:130][990]LogContentValidation: Display: Validating StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/room_mesh.room_mesh
+[2023.02.03-12.39.21:130][990]LogContentValidation: Display: Validating Texture2D /Game/Oli_BPs/Assets/Finished-Assets/room_tex.room_tex
+[2023.02.03-12.40.46:527][405]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.03-12.40.46:537][405]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.03-12.40.46:537][405]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.03-12.40.46:537][405]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.40.46:537][405]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.03-12.40.46:538][405]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.03-12.40.46:538][405]LogWorldPartition: Display: GetPartitionedActors took 67 us
+[2023.02.03-12.40.46:538][405]LogWorldPartition: Display: GenerateStreaming took 364 us
+[2023.02.03-12.40.46:538][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.03-12.40.46:538][405]PIE: New page: PIE session: TopDownMap (3 Feb 2023, 12:40:46)
+[2023.02.03-12.40.46:538][405]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.40.46:546][405]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.03-12.40.46:546][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007181s)
+[2023.02.03-12.40.46:546][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007254s)
+[2023.02.03-12.40.46:546][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-12.40.46:546][405]LogAIModule: Creating AISystem for world TopDownMap
+[2023.02.03-12.40.46:547][405]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.03-12.40.46:547][405]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.03-12.40.46:549][405]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.03-12.40.46:549][405]LogPlayLevel: PIE: World Init took: (0.002960s)
+[2023.02.03-12.40.46:637][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.02.03-12.40.46:640][405]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.02.03-12.40.46:640][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-12.40.46:640][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-12.40.46:640][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-12.40.46:640][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-12.40.46:640][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-12.40.46:640][405]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.03-12.40.46:640][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-12.40.46:640][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-12.40.46:640][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-12.40.46:640][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-12.40.46:640][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-12.40.46:644][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.03-12.40.46:666][405]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.03-12.40.46:666][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-12.40.46:666][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-12.40.46:666][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-12.40.46:667][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2023.02.03-12.40.46:667][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2023.02.03-12.40.46:669][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2023.02.03-12.40.46:669][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2023.02.03-12.40.46:669][405]LogInit: FAudioDevice initialized.
+[2023.02.03-12.40.46:669][405]LogAudio: Display: Audio Device (ID: 56) registered with world 'TopDownMap'.
+[2023.02.03-12.40.46:682][405]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.03-12.40.46:684][405]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.02.03-12.40.46
+[2023.02.03-12.40.46:684][405]LogWorld: Bringing up level for play took: 0.002293
+[2023.02.03-12.40.46:687][405]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2023.02.03-12.40.46:690][405]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1580.000 Y=2510.000 Z=942.013
+[2023.02.03-12.40.46:691][405]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.40.46:691][405]PIE: Server logged in
+[2023.02.03-12.40.46:692][405]PIE: Play in editor total start time 0.156 seconds.
+[2023.02.03-12.40.47:375][460]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.40.54:322][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.40.54:322][271]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.40.54:322][271]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-12.40.54:323][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.40.54:334][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.03-12.40.54:343][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.40.54:438][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.40.54:439][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.02.03-12.40.54:441][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.02.03-12.40.54:521][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.03-12.40.54:585][272]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.02.03-12.41.06:978][255]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.41.07:954][312]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.41.14:751][687]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.41.15:306][718]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.41.15:713][741]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.41.17:839][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oli_BPs/Room_BP" FILE="D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Room_BP.uasset" SILENT=true
+[2023.02.03-12.41.17:844][859]LogSavePackage: Moving output files for package: /Game/Oli_BPs/Room_BP
+[2023.02.03-12.41.17:845][859]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/Room_BP2E5EDDA44292149EEF122F835A4FA305.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Room_BP.uasset'
+[2023.02.03-12.41.17:868][859]AssetCheck: New page: Asset Save: Room_BP
+[2023.02.03-12.41.17:868][859]LogContentValidation: Display: Validating Blueprint /Game/Oli_BPs/Room_BP.Room_BP
+[2023.02.03-12.41.20:072][ 20]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.03-12.41.20:081][ 20]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.03-12.41.20:081][ 20]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.03-12.41.20:081][ 20]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.41.20:082][ 20]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.03-12.41.20:082][ 20]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.03-12.41.20:082][ 20]LogWorldPartition: Display: GetPartitionedActors took 69 us
+[2023.02.03-12.41.20:082][ 20]LogWorldPartition: Display: GenerateStreaming took 356 us
+[2023.02.03-12.41.20:082][ 20]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.03-12.41.20:083][ 20]LogPlayLevel: [PlayLevel] Compiling Room_BP before play...
+[2023.02.03-12.41.20:268][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.02.03-12.41.20:271][ 20]LogPlayLevel: PlayLevel: Blueprint regeneration took 189 ms (1 blueprints)
+[2023.02.03-12.41.20:271][ 20]PIE: New page: PIE session: TopDownMap (3 Feb 2023, 12:41:20)
+[2023.02.03-12.41.20:271][ 20]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.41.20:278][ 20]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.03-12.41.20:278][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007060s)
+[2023.02.03-12.41.20:278][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007116s)
+[2023.02.03-12.41.20:278][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-12.41.20:279][ 20]LogAIModule: Creating AISystem for world TopDownMap
+[2023.02.03-12.41.20:279][ 20]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.03-12.41.20:279][ 20]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.03-12.41.20:281][ 20]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.03-12.41.20:281][ 20]LogPlayLevel: PIE: World Init took: (0.002542s)
+[2023.02.03-12.41.20:388][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.02.03-12.41.20:391][ 20]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.02.03-12.41.20:391][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-12.41.20:391][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-12.41.20:391][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-12.41.20:391][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-12.41.20:391][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-12.41.20:391][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.03-12.41.20:391][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-12.41.20:391][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-12.41.20:392][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-12.41.20:392][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-12.41.20:392][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-12.41.20:397][ 20]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.03-12.41.20:421][ 20]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.03-12.41.20:422][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-12.41.20:422][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-12.41.20:422][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-12.41.20:422][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2023.02.03-12.41.20:422][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2023.02.03-12.41.20:427][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2023.02.03-12.41.20:427][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2023.02.03-12.41.20:427][ 20]LogInit: FAudioDevice initialized.
+[2023.02.03-12.41.20:427][ 20]LogAudio: Display: Audio Device (ID: 57) registered with world 'TopDownMap'.
+[2023.02.03-12.41.20:450][ 20]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.03-12.41.20:452][ 20]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.02.03-12.41.20
+[2023.02.03-12.41.20:452][ 20]LogWorld: Bringing up level for play took: 0.002061
+[2023.02.03-12.41.20:456][ 20]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.02.03-12.41.20:463][ 20]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1580.000 Y=2510.000 Z=942.013
+[2023.02.03-12.41.20:463][ 20]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.41.20:464][ 20]PIE: Server logged in
+[2023.02.03-12.41.20:466][ 20]PIE: Play in editor total start time 0.387 seconds.
+[2023.02.03-12.41.20:938][ 50]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.41.37:502][ 20]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.41.38:840][179]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.42.10:499][952]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.42.14:953][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.42.14:953][472]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.42.14:953][472]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-12.42.14:953][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.42.14:967][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.03-12.42.14:980][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.42.15:089][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.42.15:089][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.02.03-12.42.15:091][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.02.03-12.42.15:100][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.03-12.42.15:175][473]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.02.03-12.42.15:323][476]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.42.27:470][458]Cmd: MODE GRID=0
+[2023.02.03-12.42.28:522][514]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.42.28:735][524]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.42.29:374][537]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.42.29:529][545]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.42.30:634][603]Cmd: MODE GRID=1
+[2023.02.03-12.42.32:108][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Oli_BPs/Room_BP" FILE="D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Room_BP.uasset" SILENT=true
+[2023.02.03-12.42.32:119][673]LogSavePackage: Moving output files for package: /Game/Oli_BPs/Room_BP
+[2023.02.03-12.42.32:120][673]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/Room_BPE498205D49EE3A914B5E4BA9741DE7A5.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/Oli_BPs/Room_BP.uasset'
+[2023.02.03-12.42.32:146][673]AssetCheck: New page: Asset Save: Room_BP
+[2023.02.03-12.42.32:146][673]LogContentValidation: Display: Validating Blueprint /Game/Oli_BPs/Room_BP.Room_BP
+[2023.02.03-12.42.33:679][750]BlueprintLog: New page: Compile Room_BP
+[2023.02.03-12.42.33:828][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.02.03-12.42.34:131][753]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.03-12.42.35:713][872]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.03-12.42.35:723][872]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.03-12.42.35:723][872]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.03-12.42.35:723][872]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.42.35:723][872]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.03-12.42.35:723][872]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.03-12.42.35:723][872]LogWorldPartition: Display: GetPartitionedActors took 57 us
+[2023.02.03-12.42.35:723][872]LogWorldPartition: Display: GenerateStreaming took 359 us
+[2023.02.03-12.42.35:724][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.03-12.42.35:724][872]PIE: New page: PIE session: TopDownMap (3 Feb 2023, 12:42:35)
+[2023.02.03-12.42.35:724][872]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.42.35:733][872]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.03-12.42.35:733][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009380s)
+[2023.02.03-12.42.35:733][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.009442s)
+[2023.02.03-12.42.35:733][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-12.42.35:734][872]LogAIModule: Creating AISystem for world TopDownMap
+[2023.02.03-12.42.35:735][872]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.03-12.42.35:735][872]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.03-12.42.35:736][872]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.03-12.42.35:736][872]LogPlayLevel: PIE: World Init took: (0.003063s)
+[2023.02.03-12.42.35:829][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.02.03-12.42.35:832][872]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.02.03-12.42.35:832][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-12.42.35:832][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-12.42.35:832][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-12.42.35:832][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-12.42.35:832][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-12.42.35:832][872]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.03-12.42.35:832][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-12.42.35:832][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-12.42.35:833][872]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-12.42.35:833][872]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-12.42.35:833][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-12.42.35:836][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.03-12.42.35:864][872]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.03-12.42.35:864][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-12.42.35:864][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-12.42.35:864][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-12.42.35:864][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2023.02.03-12.42.35:864][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2023.02.03-12.42.35:867][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2023.02.03-12.42.35:867][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2023.02.03-12.42.35:867][872]LogInit: FAudioDevice initialized.
+[2023.02.03-12.42.35:867][872]LogAudio: Display: Audio Device (ID: 58) registered with world 'TopDownMap'.
+[2023.02.03-12.42.35:882][872]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.03-12.42.35:884][872]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.02.03-12.42.35
+[2023.02.03-12.42.35:884][872]LogWorld: Bringing up level for play took: 0.002161
+[2023.02.03-12.42.35:887][872]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.02.03-12.42.35:890][872]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1580.000 Y=2510.000 Z=942.013
+[2023.02.03-12.42.35:891][872]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.42.35:891][872]PIE: Server logged in
+[2023.02.03-12.42.35:892][872]PIE: Play in editor total start time 0.171 seconds.
+[2023.02.03-12.42.36:560][932]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.42.41:262][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.42.41:263][487]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.42.41:263][487]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-12.42.41:263][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.42.41:282][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.03-12.42.41:294][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.42.41:395][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-12.42.41:395][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.02.03-12.42.41:398][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.02.03-12.42.41:403][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.42.41:407][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.02.03-12.42.41:454][488]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.02.03-12.42.42:112][540]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.03-12.42.42:122][540]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.03-12.42.42:122][540]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.03-12.42.42:122][540]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.42.42:122][540]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.03-12.42.42:122][540]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.03-12.42.42:122][540]LogWorldPartition: Display: GetPartitionedActors took 54 us
+[2023.02.03-12.42.42:123][540]LogWorldPartition: Display: GenerateStreaming took 334 us
+[2023.02.03-12.42.42:123][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.03-12.42.42:123][540]PIE: New page: PIE session: TopDownMap (3 Feb 2023, 12:42:42)
+[2023.02.03-12.42.42:123][540]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.42.42:130][540]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.03-12.42.42:130][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007035s)
+[2023.02.03-12.42.42:130][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007092s)
+[2023.02.03-12.42.42:130][540]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-12.42.42:131][540]LogAIModule: Creating AISystem for world TopDownMap
+[2023.02.03-12.42.42:131][540]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.03-12.42.42:131][540]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.03-12.42.42:132][540]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.03-12.42.42:132][540]LogPlayLevel: PIE: World Init took: (0.002746s)
+[2023.02.03-12.42.42:223][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.02.03-12.42.42:226][540]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2023.02.03-12.42.42:226][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-12.42.42:226][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-12.42.42:226][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-12.42.42:226][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-12.42.42:226][540]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-12.42.42:226][540]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.03-12.42.42:226][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-12.42.42:226][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-12.42.42:227][540]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-12.42.42:227][540]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-12.42.42:227][540]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-12.42.42:230][540]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.03-12.42.42:250][540]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.03-12.42.42:250][540]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-12.42.42:250][540]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-12.42.42:250][540]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-12.42.42:251][540]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2023.02.03-12.42.42:251][540]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2023.02.03-12.42.42:254][540]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2023.02.03-12.42.42:254][540]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2023.02.03-12.42.42:254][540]LogInit: FAudioDevice initialized.
+[2023.02.03-12.42.42:254][540]LogAudio: Display: Audio Device (ID: 59) registered with world 'TopDownMap'.
+[2023.02.03-12.42.42:269][540]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.03-12.42.42:271][540]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.02.03-12.42.42
+[2023.02.03-12.42.42:271][540]LogWorld: Bringing up level for play took: 0.002073
+[2023.02.03-12.42.42:273][540]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.02.03-12.42.42:277][540]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1580.000 Y=2510.000 Z=942.013
+[2023.02.03-12.42.42:277][540]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.03-12.42.42:278][540]PIE: Server logged in
+[2023.02.03-12.42.42:278][540]PIE: Play in editor total start time 0.159 seconds.
+[2023.02.03-12.42.42:959][595]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.42.45:875][942]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.42.48:709][282]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.42.50:483][494]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.42.51:690][638]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Hello
+[2023.02.03-12.42.58:942][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.42.58:942][498]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.03-12.42.58:942][498]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-12.42.58:943][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.42.58:961][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.03-12.42.58:977][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-12.42.59:090][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-12.42.59:091][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2023.02.03-12.42.59:093][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2023.02.03-12.42.59:097][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-12.42.59:101][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.02.03-12.42.59:161][499]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2023.02.03-12.43.06:116][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.02.03-12.43.06:215][ 33]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/4P/DDY371YS23671U3TCKGOTE
+[2023.02.03-12.43.06:217][ 33]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/DDY371YS23671U3TCKGOTE42C8B75D492355FACE07528C89AEE0F1.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/4P/DDY371YS23671U3TCKGOTE.uasset'
+[2023.02.03-12.43.06:227][ 33]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/FU/4F3DD1W2PU2XURAENKODYA
+[2023.02.03-12.43.06:229][ 33]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/4F3DD1W2PU2XURAENKODYADA170E024DF64FA1AC447EBFDC133D05.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/FU/4F3DD1W2PU2XURAENKODYA.uasset'
+[2023.02.03-12.43.06:239][ 33]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/ZI/M3WSJJOHZ4BOVI71VRZ58F
+[2023.02.03-12.43.06:240][ 33]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/M3WSJJOHZ4BOVI71VRZ58FFB8BE623453B3089F7BC2B84B732EF7F.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/ZI/M3WSJJOHZ4BOVI71VRZ58F.uasset'
+[2023.02.03-12.43.06:247][ 33]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/KS/YRADN2RYT8CPJP2AUV7WHJ
+[2023.02.03-12.43.06:248][ 33]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/YRADN2RYT8CPJP2AUV7WHJ4027B66547018587C1B5CCB0877BCBC9.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/KS/YRADN2RYT8CPJP2AUV7WHJ.uasset'
+[2023.02.03-12.43.06:276][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-12.43.06:277][ 33]LogContentValidation: Display: Validating Room_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Room_BP_C_UAID_A4BB6D9AAB7F076301_1409868947
+[2023.02.03-12.43.06:277][ 33]LogContentValidation: Display: Validating Room_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Room_BP_C_UAID_A4BB6D9AAB7F076301_1409866946
+[2023.02.03-12.43.06:277][ 33]LogContentValidation: Display: Validating Room_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Room_BP_C_UAID_A4BB6D9AAB7F066301_2147232769
+[2023.02.03-12.43.06:277][ 33]LogContentValidation: Display: Validating Room_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Room_BP_C_UAID_A4BB6D9AAB7F066301_1393637768
+[2023.02.03-12.43.39:182][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
