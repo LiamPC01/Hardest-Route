@@ -7540,3 +7540,400 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.04-12.22.58:379][ 60]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.04-12.22.58:379][ 60]LogContentValidation: Display: Validating Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_UAID_A4BB6D9AAB7F586301_1495186436
 [2023.02.04-12.22.58:379][ 60]LogContentValidation: Display: Validating Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_UAID_A4BB6D9AAB7F586301_1489868435
+[2023.02.04-12.26.27:797][875]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.39:177][240]Cmd: EDIT COPY
+[2023.02.04-12.26.39:424][244]Cmd: EDIT PASTE
+[2023.02.04-12.26.39:568][245]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.41:325][327]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.41:813][338]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.47:701][507]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.48:941][530]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.49:231][533]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.54:902][703]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.55:677][723]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.55:751][725]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.56:037][731]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.58:967][815]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.59:025][817]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.59:078][819]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.59:184][823]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.59:353][828]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.59:699][841]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.26.59:860][844]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.27.02:464][927]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.27.02:843][941]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.27.05:477][  9]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/DA/88EROCI856FZIETJ12ANS2
+[2023.02.04-12.27.05:478][  9]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/88EROCI856FZIETJ12ANS2B9187D2746B16A08DBB64CBED3571FEE.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/DA/88EROCI856FZIETJ12ANS2.uasset'
+[2023.02.04-12.27.05:483][  9]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/8G/CWLO4DO8HU48IT58FNN1MO
+[2023.02.04-12.27.05:483][  9]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/CWLO4DO8HU48IT58FNN1MOD1ACDF624CFFB007AE67F28DBA7A59B8.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/8G/CWLO4DO8HU48IT58FNN1MO.uasset'
+[2023.02.04-12.27.05:520][  9]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.04-12.27.05:521][  9]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F546301_1119431555
+[2023.02.04-12.27.05:521][  9]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1726921437
+[2023.02.04-12.27.16:462][312]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Oli_BPs/Knife_BP.Knife_BP_C
+[2023.02.04-12.27.16:462][312]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Oli_BPs/Knife_BP.Knife_BP_C
+[2023.02.04-12.27.16:467][312]LogActorFactory: Actor Factory spawned Blueprint /Game/Oli_BPs/Knife_BP.Knife_BP as actor: Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_6
+[2023.02.04-12.27.16:472][312]LogActorFactory: Actor Factory spawned Blueprint /Game/Oli_BPs/Knife_BP.Knife_BP as actor: Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_6
+[2023.02.04-12.27.17:048][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Oli_BPs/Knife_BP.Knife_BP_C
+[2023.02.04-12.27.17:048][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Oli_BPs/Knife_BP.Knife_BP_C
+[2023.02.04-12.27.17:050][336]LogActorFactory: Actor Factory spawned Blueprint /Game/Oli_BPs/Knife_BP.Knife_BP as actor: Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_UAID_A4BB6D9AAB7F586301_1764544438
+[2023.02.04-12.27.17:052][336]LogActorFactory: Actor Factory spawned Blueprint /Game/Oli_BPs/Knife_BP.Knife_BP as actor: Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_UAID_A4BB6D9AAB7F586301_1764544438
+[2023.02.04-12.27.21:582][486]Cmd: EDIT COPY
+[2023.02.04-12.27.21:774][493]Cmd: EDIT PASTE
+[2023.02.04-12.27.26:081][632]LogViewport: Scene viewport resized to 643x390, mode Windowed.
+[2023.02.04-12.27.34:596][941]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/4B/E407IPP4Y2EKMW1X88PUGH
+[2023.02.04-12.27.34:596][941]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/E407IPP4Y2EKMW1X88PUGH49B0DA17454930F1EEF412A6DA921FB3.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/4B/E407IPP4Y2EKMW1X88PUGH.uasset'
+[2023.02.04-12.27.34:600][941]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/80/INEM5347KA47C53WBHCJLU
+[2023.02.04-12.27.34:600][941]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/INEM5347KA47C53WBHCJLU628C7D7246905B0CE28F7D9D427221E2.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/80/INEM5347KA47C53WBHCJLU.uasset'
+[2023.02.04-12.27.34:619][941]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.04-12.27.34:620][941]LogContentValidation: Display: Validating Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_UAID_A4BB6D9AAB7F586301_1769271439
+[2023.02.04-12.27.34:620][941]LogContentValidation: Display: Validating Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_UAID_A4BB6D9AAB7F586301_1764544438
+[2023.02.04-12.27.36:643][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.02.04-12.28.03:207][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Crate/crate_mesh.crate_mesh
+[2023.02.04-12.28.03:207][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Crate/crate_mesh.crate_mesh
+[2023.02.04-12.28.03:208][840]LogActorFactory: Actor Factory spawned StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Crate/crate_mesh.crate_mesh as actor: StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_33
+[2023.02.04-12.28.04:360][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Crate/crate_mesh.crate_mesh
+[2023.02.04-12.28.04:360][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Crate/crate_mesh.crate_mesh
+[2023.02.04-12.28.04:362][908]LogActorFactory: Actor Factory spawned StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Crate/crate_mesh.crate_mesh as actor: StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1811856440
+[2023.02.04-12.28.04:450][909]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.06:981][  6]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.07:327][ 13]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.07:439][ 16]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.07:718][ 24]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.08:137][ 37]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.08:293][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.08:586][ 48]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.09:398][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.09:620][ 77]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.10:176][ 95]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.10:613][108]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.10:910][115]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.12:218][143]Cmd: EDIT COPY
+[2023.02.04-12.28.12:492][148]Cmd: EDIT PASTE
+[2023.02.04-12.28.12:676][149]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.14:616][229]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.15:865][257]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.15:996][260]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.16:237][265]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.16:408][268]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.16:593][272]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.17:216][284]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.17:605][291]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.20:416][367]Cmd: EDIT COPY
+[2023.02.04-12.28.20:655][371]Cmd: EDIT PASTE
+[2023.02.04-12.28.20:813][372]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.22:903][436]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.23:041][442]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.23:125][445]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.23:233][449]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.23:341][453]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.23:478][458]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.24:154][481]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.24:574][494]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.27:208][572]Cmd: EDIT COPY
+[2023.02.04-12.28.27:455][576]Cmd: EDIT PASTE
+[2023.02.04-12.28.27:614][577]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.29:249][646]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.29:552][655]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.29:602][657]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.29:652][659]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.29:703][661]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.29:860][667]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.30:141][678]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.30:491][689]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.31:183][714]Cmd: EDIT COPY
+[2023.02.04-12.28.31:511][720]Cmd: EDIT PASTE
+[2023.02.04-12.28.31:663][721]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.32:032][731]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.32:079][733]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.32:149][736]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.32:242][740]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.32:552][749]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.33:635][785]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.33:876][790]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.33:936][792]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.34:462][810]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.35:013][826]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.35:558][841]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.37:731][899]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.39:111][963]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.28.40:678][988]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/WZ/XAZMV7KJKZRRDQVN0A7P5J
+[2023.02.04-12.28.40:678][988]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/XAZMV7KJKZRRDQVN0A7P5J96DEE4CB466D9AF931649781FB1CD8BB.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/WZ/XAZMV7KJKZRRDQVN0A7P5J.uasset'
+[2023.02.04-12.28.40:682][988]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/D0/70LE3W8YJCWULORNH5S6JA
+[2023.02.04-12.28.40:682][988]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/70LE3W8YJCWULORNH5S6JA22AE281D4FEA96B159B17B97125C8033.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/D0/70LE3W8YJCWULORNH5S6JA.uasset'
+[2023.02.04-12.28.40:687][988]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/X7/RTONEN03SYJKA339Z1FIA9
+[2023.02.04-12.28.40:687][988]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/RTONEN03SYJKA339Z1FIA9D59A30DE42383387FE5E2A90213A5F4D.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/X7/RTONEN03SYJKA339Z1FIA9.uasset'
+[2023.02.04-12.28.40:691][988]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/PK/KXK6LOBZQQVEVKQLH4GW2T
+[2023.02.04-12.28.40:691][988]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/KXK6LOBZQQVEVKQLH4GW2T643B647E46CBF878C888BE94A29DEB40.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/PK/KXK6LOBZQQVEVKQLH4GW2T.uasset'
+[2023.02.04-12.28.40:694][988]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/9Q/4YM826B7800YPJEMHFGOFK
+[2023.02.04-12.28.40:694][988]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/4YM826B7800YPJEMHFGOFKF9AD9A8A403361FDA14DC287253C75A0.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/9Q/4YM826B7800YPJEMHFGOFK.uasset'
+[2023.02.04-12.28.40:697][988]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/TK/X7W02MC7OAAGDSENXFX4Y7
+[2023.02.04-12.28.40:697][988]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/X7W02MC7OAAGDSENXFX4Y70E87F9674EE7A9BF8E5617930FCCFA58.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/TK/X7W02MC7OAAGDSENXFX4Y7.uasset'
+[2023.02.04-12.28.40:715][988]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.04-12.28.40:715][988]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1839009445
+[2023.02.04-12.28.40:715][988]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1834952444
+[2023.02.04-12.28.40:715][988]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1828154443
+[2023.02.04-12.28.40:715][988]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1828152442
+[2023.02.04-12.28.40:715][988]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1819988441
+[2023.02.04-12.28.40:715][988]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1811856440
+[2023.02.04-12.30.11:120][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Chair/chair_mesh.chair_mesh
+[2023.02.04-12.30.11:120][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Chair/chair_mesh.chair_mesh
+[2023.02.04-12.30.11:121][896]LogActorFactory: Actor Factory spawned StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Chair/chair_mesh.chair_mesh as actor: StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_34
+[2023.02.04-12.30.11:593][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Chair/chair_mesh.chair_mesh
+[2023.02.04-12.30.11:593][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Chair/chair_mesh.chair_mesh
+[2023.02.04-12.30.11:594][919]LogActorFactory: Actor Factory spawned StaticMesh /Game/Oli_BPs/Assets/Finished-Assets/Chair/chair_mesh.chair_mesh as actor: StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1939089446
+[2023.02.04-12.30.11:652][920]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.13:844][995]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.13:884][997]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.13:969][  1]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.14:550][ 25]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.18:810][219]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.18:885][223]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.18:948][226]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.19:008][229]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.19:098][233]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.19:136][235]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.19:174][237]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.19:240][240]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.19:277][242]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.19:799][264]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.22:545][377]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.23:094][402]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.25:018][481]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.25:058][483]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.25:455][499]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.26:225][534]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.27:367][578]Cmd: EDIT COPY
+[2023.02.04-12.30.27:619][584]Cmd: EDIT PASTE
+[2023.02.04-12.30.27:769][585]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.29:374][659]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.29:877][675]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.29:927][677]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.29:991][679]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.30:068][682]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.30:511][698]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.45:999][444]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.47:753][533]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.51:305][669]Cmd: EDIT COPY
+[2023.02.04-12.30.51:552][679]Cmd: EDIT PASTE
+[2023.02.04-12.30.51:725][680]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.52:401][709]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.52:743][719]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.53:035][723]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.53:823][751]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.53:903][754]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.54:145][762]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.54:565][775]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.30.56:006][833]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.00:300][  1]Cmd: EDIT COPY
+[2023.02.04-12.31.00:497][  4]Cmd: EDIT PASTE
+[2023.02.04-12.31.00:616][  5]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.01:926][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.02:143][ 46]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.04:099][124]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.08:213][286]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.09:880][361]Cmd: EDIT COPY
+[2023.02.04-12.31.10:066][366]Cmd: EDIT PASTE
+[2023.02.04-12.31.10:196][367]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.10:634][380]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.10:958][390]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.11:249][394]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.13:521][477]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.13:638][482]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.13:761][488]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.13:946][494]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.16:190][601]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.16:233][603]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.16:495][616]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.16:668][624]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.17:212][649]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.19:228][723]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.19:562][740]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.20:119][768]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.20:450][781]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.23:276][909]Cmd: EDIT COPY
+[2023.02.04-12.31.23:458][913]Cmd: EDIT PASTE
+[2023.02.04-12.31.23:591][914]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.24:393][939]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.24:677][944]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.24:956][952]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.26:536][ 20]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.26:602][ 23]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.26:669][ 26]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.26:790][ 31]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.26:878][ 35]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.26:977][ 40]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.27:130][ 47]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.27:269][ 54]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.27:479][ 64]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.27:658][ 72]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.27:881][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.28:359][105]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.28:812][124]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.31:974][260]Cmd: EDIT COPY
+[2023.02.04-12.31.32:182][267]Cmd: EDIT PASTE
+[2023.02.04-12.31.32:331][268]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.33:384][299]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.33:762][312]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.36:784][425]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.36:828][427]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.36:866][429]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.36:933][432]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.36:974][434]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.37:044][437]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.37:085][439]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.37:125][441]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.37:174][443]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.37:476][457]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.37:960][477]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.39:091][520]Cmd: EDIT COPY
+[2023.02.04-12.31.41:378][614]Cmd: EDIT COPY
+[2023.02.04-12.31.41:578][623]Cmd: EDIT PASTE
+[2023.02.04-12.31.41:674][624]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.43:108][678]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.43:303][681]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.46:272][789]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.46:317][791]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.46:381][794]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.46:552][801]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.46:613][803]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.46:687][806]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.46:764][809]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.47:529][838]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.49:004][901]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.49:151][907]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.49:294][912]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.49:432][918]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.50:048][943]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.50:696][971]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.51:114][985]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.54:029][ 88]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.54:606][109]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.55:085][124]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.57:152][200]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.57:242][203]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.57:373][208]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.57:689][221]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.58:119][234]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.59:766][293]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.59:823][295]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.59:877][297]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.31.59:945][299]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.32.00:028][302]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.32.00:279][309]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.32.01:846][383]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.32.05:726][556]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.32.05:826][561]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.32.06:184][577]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.32.06:676][596]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.04-12.32.09:034][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.04-12.32.09:120][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/7I/0JPJCO4GPU7RQ887J9LH8H
+[2023.02.04-12.32.09:120][751]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/0JPJCO4GPU7RQ887J9LH8H0E7806DC4561FCD1BFBC8B9C74483C85.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/7I/0JPJCO4GPU7RQ887J9LH8H.uasset'
+[2023.02.04-12.32.09:126][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/XN/ATTWODZVW0ZPLWX96F3Z4D
+[2023.02.04-12.32.09:126][751]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/ATTWODZVW0ZPLWX96F3Z4D3AA77B1A461C280090D08D986496907A.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/XN/ATTWODZVW0ZPLWX96F3Z4D.uasset'
+[2023.02.04-12.32.09:132][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/G1/GZTXH3GS9CD2YE47MJJDF5
+[2023.02.04-12.32.09:132][751]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/GZTXH3GS9CD2YE47MJJDF5240B8D1E453F37DD6CDDE594449C6F03.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/G1/GZTXH3GS9CD2YE47MJJDF5.uasset'
+[2023.02.04-12.32.09:136][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/S2/1YA6L85EIL52RI330V623V
+[2023.02.04-12.32.09:136][751]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/1YA6L85EIL52RI330V623V08747CB34EE8595FA03AE3A3CC4AFFEE.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/S2/1YA6L85EIL52RI330V623V.uasset'
+[2023.02.04-12.32.09:140][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/69/FN0BB86LZ0KTODOQB76NMY
+[2023.02.04-12.32.09:140][751]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/FN0BB86LZ0KTODOQB76NMYE3E09FA2427E9E86DCBCCA88C267B09C.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/69/FN0BB86LZ0KTODOQB76NMY.uasset'
+[2023.02.04-12.32.09:143][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/18/1BZD0J3FWI9298AI728E5E
+[2023.02.04-12.32.09:143][751]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/1BZD0J3FWI9298AI728E5EEF150A0F4BB09E931D082A882A5B3EDD.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/18/1BZD0J3FWI9298AI728E5E.uasset'
+[2023.02.04-12.32.09:147][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/FC/EJO9Z85UKASDHV452DJDV5
+[2023.02.04-12.32.09:147][751]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/EJO9Z85UKASDHV452DJDV55A82281C487E9CDC9C4407A249832B64.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/FC/EJO9Z85UKASDHV452DJDV5.uasset'
+[2023.02.04-12.32.09:149][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/C8/PV7ND6F75TN4RDT8QCBGSW
+[2023.02.04-12.32.09:149][751]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/PV7ND6F75TN4RDT8QCBGSW2ACC0B924E3B63CC1830C293F468F47D.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/C8/PV7ND6F75TN4RDT8QCBGSW.uasset'
+[2023.02.04-12.32.09:168][751]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.04-12.32.09:168][751]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_2029075453
+[2023.02.04-12.32.09:168][751]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_2019679452
+[2023.02.04-12.32.09:168][751]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_2010955451
+[2023.02.04-12.32.09:168][751]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1997563450
+[2023.02.04-12.32.09:168][751]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1987993449
+[2023.02.04-12.32.09:168][751]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1979049448
+[2023.02.04-12.32.09:168][751]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1955116447
+[2023.02.04-12.32.09:168][751]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D9AAB7F586301_1939089446
+[2023.02.04-12.32.48:941][261]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Oli_BPs/Knife_BP.Knife_BP_C
+[2023.02.04-12.32.48:942][261]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Oli_BPs/Knife_BP.Knife_BP_C
+[2023.02.04-12.32.48:945][261]LogActorFactory: Actor Factory spawned Blueprint /Game/Oli_BPs/Knife_BP.Knife_BP as actor: Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_7
+[2023.02.04-12.32.48:949][261]LogActorFactory: Actor Factory spawned Blueprint /Game/Oli_BPs/Knife_BP.Knife_BP as actor: Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_7
+[2023.02.04-12.32.50:001][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Oli_BPs/Knife_BP.Knife_BP_C
+[2023.02.04-12.32.50:001][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Oli_BPs/Knife_BP.Knife_BP_C
+[2023.02.04-12.32.50:005][327]LogActorFactory: Actor Factory spawned Blueprint /Game/Oli_BPs/Knife_BP.Knife_BP as actor: Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_UAID_A4BB6D9AAB7F586301_2097497454
+[2023.02.04-12.32.50:006][327]LogActorFactory: Actor Factory spawned Blueprint /Game/Oli_BPs/Knife_BP.Knife_BP as actor: Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_UAID_A4BB6D9AAB7F586301_2097497454
+[2023.02.04-12.32.54:209][487]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/5W/IOBV1K0BDGY8HDON84V3OC
+[2023.02.04-12.32.54:209][487]LogSavePackage: Moving 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Saved/IOBV1K0BDGY8HDON84V3OC673C1E8648459BB6994A6887DBD27560.tmp' to 'D:/2001555/UE5 Project/Hardest-Route-2/HardestRoute/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/5W/IOBV1K0BDGY8HDON84V3OC.uasset'
+[2023.02.04-12.32.54:260][487]AssetCheck: New page: Asset Save: Knife_BP_C_UAID_A4BB6D9AAB7F586301_2097497454
+[2023.02.04-12.32.54:260][487]LogContentValidation: Display: Validating Knife_BP_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Knife_BP_C_UAID_A4BB6D9AAB7F586301_2097497454
+[2023.02.04-12.32.57:968][585]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-12.32.57:988][585]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.04-12.32.57:988][585]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.04-12.32.57:988][585]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.04-12.32.57:988][585]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.04-12.32.57:988][585]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.04-12.32.57:988][585]LogWorldPartition: Display: GetPartitionedActors took 165 us
+[2023.02.04-12.32.57:991][585]LogWorldPartition: Display: GenerateStreaming took 2 ms
+[2023.02.04-12.32.57:991][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-12.32.57:991][585]PIE: New page: PIE session: TopDownMap (4 Feb 2023, 12:32:57)
+[2023.02.04-12.32.57:991][585]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.04-12.32.58:036][585]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.04-12.32.58:036][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044367s)
+[2023.02.04-12.32.58:036][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.044452s)
+[2023.02.04-12.32.58:036][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-12.32.58:037][585]LogAIModule: Creating AISystem for world TopDownMap
+[2023.02.04-12.32.58:037][585]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.04-12.32.58:038][585]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.04-12.32.58:048][585]LogWorldPartition: Display: WorldPartition initialize took 10 ms
+[2023.02.04-12.32.58:049][585]LogPlayLevel: PIE: World Init took: (0.012574s)
+[2023.02.04-12.32.58:128][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.02.04-12.32.58:133][585]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.02.04-12.32.58:134][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-12.32.58:134][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-12.32.58:134][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-12.32.58:134][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-12.32.58:134][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-12.32.58:134][585]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-12.32.58:134][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-12.32.58:134][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-12.32.58:134][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-12.32.58:134][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-12.32.58:134][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-12.32.58:138][585]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-12.32.58:163][585]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.04-12.32.58:163][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-12.32.58:163][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-12.32.58:163][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-12.32.58:165][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.02.04-12.32.58:165][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.02.04-12.32.58:168][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.02.04-12.32.58:168][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.02.04-12.32.58:168][585]LogInit: FAudioDevice initialized.
+[2023.02.04-12.32.58:168][585]LogAudio: Display: Audio Device (ID: 30) registered with world 'TopDownMap'.
+[2023.02.04-12.32.58:195][585]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.04-12.32.58:222][585]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.02.04-12.32.58
+[2023.02.04-12.32.58:222][585]LogWorld: Bringing up level for play took: 0.026822
+[2023.02.04-12.32.58:227][585]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2023.02.04-12.32.58:229][585]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=4800.000 Y=6580.000 Z=1382.013
+[2023.02.04-12.32.58:229][585]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.04-12.32.58:237][585]PIE: Server logged in
+[2023.02.04-12.32.58:238][585]PIE: Play in editor total start time 0.258 seconds.
+[2023.02.04-12.32.59:080][611]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] In new Room
+[2023.02.04-12.32.59:080][611]LogBlueprintUserMessages: [Room_BP_C_UAID_A4BB6D9AAB7F516301_1407321967] Hello
+[2023.02.04-12.33.02:085][783]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] In new Room
+[2023.02.04-12.33.02:113][784]LogBlueprintUserMessages: [Room_BP_C_UAID_A4BB6D9AAB7F516301_1407309965] Hello
+[2023.02.04-12.33.05:714][  5]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] In new Room
+[2023.02.04-12.33.05:728][  6]LogBlueprintUserMessages: [Room_BP_C_UAID_A4BB6D9AAB7F516301_1407316966] Hello
+[2023.02.04-12.33.09:022][225]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] In new Room
+[2023.02.04-12.33.09:206][237]LogBlueprintUserMessages: [Room_BP_C_UAID_A4BB6D9AAB7F076301_1409868947] Hello
+[2023.02.04-12.33.23:550][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-12.33.23:550][206]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.04-12.33.23:551][206]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-12.33.23:553][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-12.33.23:575][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-12.33.23:584][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-12.33.23:660][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-12.33.23:661][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.02.04-12.33.23:664][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.02.04-12.33.23:671][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-12.33.23:680][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.04-12.33.23:714][207]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.02.04-12.33.53:656][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.04-12.35.05:282][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
