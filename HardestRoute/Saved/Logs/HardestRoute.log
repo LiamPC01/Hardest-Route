@@ -11221,3 +11221,231 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.04-15.23.19:476][475]LogPlayLevel: Display: Destroying online subsystem :Context_57
 [2023.02.04-15.23.20:145][535]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
 [2023.02.04-15.23.23:675][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.04-15.24.11:386][196]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/" -install="D:/Day2HardestRoute/HardestRoute.zip"" -nocompile ]
+[2023.02.04-15.24.12:615][196]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2023.02.04-15.24.12:990][199]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project=D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/ -install=D:/Day2HardestRoute/HardestRoute.zip -nocompile
+[2023.02.04-15.24.13:667][201]UATHelper: Zip Project Task (Windows (Editor)): Log location: C:\Users\2000994\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.0\Log.txt
+[2023.02.04-15.24.14:001][202]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2023.02.04-15.24.14:001][202]UATHelper: Zip Project Task (Windows (Editor)): Project directory: D:\Day2HardestRoute\Hardest-Route-2\HardestRoute
+[2023.02.04-15.24.14:001][202]UATHelper: Zip Project Task (Windows (Editor)): Install directory: D:/Day2HardestRoute/HardestRoute.zip
+[2023.02.04-15.24.14:001][202]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2023.02.04-15.24.50:285][310]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2023.02.04-15.24.50:285][310]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2023.02.04-15.24.50:285][310]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 37s
+[2023.02.04-15.24.50:285][310]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2023.02.04-15.24.50:668][311]UATHelper: Zip Project Task (Windows (Editor)): Updating environment variables set by a Turnkey sub-process
+[2023.02.04-15.24.50:668][311]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2023.02.04-15.24.50:668][311]UATHelper: Zip Project Task (Windows (Editor)): The system cannot find the path specified.
+[2023.02.04-15.24.54:280][402]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-15.24.54:288][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-15.24.54:289][402]PIE: New page: PIE session: LiamTestLevel (4 Feb 2023, 15:24:54)
+[2023.02.04-15.24.54:289][402]LogPlayLevel: Creating play world package: /Game/Liam_Enemy/UEDPIE_0_LiamTestLevel
+[2023.02.04-15.24.54:295][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005947s)
+[2023.02.04-15.24.54:295][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Liam_Enemy/LiamTestLevel.LiamTestLevel to /Game/Liam_Enemy/UEDPIE_0_LiamTestLevel.LiamTestLevel (0.006037s)
+[2023.02.04-15.24.54:295][402]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.24.54:295][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.24.54:295][402]LogAIModule: Creating AISystem for world LiamTestLevel
+[2023.02.04-15.24.54:296][402]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2023.02.04-15.24.54:362][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.02.04-15.24.54:369][402]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.02.04-15.24.54:369][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-15.24.54:370][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-15.24.54:370][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-15.24.54:370][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-15.24.54:370][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-15.24.54:370][402]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-15.24.54:370][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-15.24.54:370][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-15.24.54:371][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-15.24.54:371][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-15.24.54:371][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-15.24.54:377][402]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-15.24.54:559][402]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.04-15.24.54:560][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-15.24.54:561][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-15.24.54:561][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-15.24.54:563][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2023.02.04-15.24.54:563][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2023.02.04-15.24.54:567][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2023.02.04-15.24.54:567][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2023.02.04-15.24.54:567][402]LogInit: FAudioDevice initialized.
+[2023.02.04-15.24.54:567][402]LogAudio: Display: Audio Device (ID: 51) registered with world 'LiamTestLevel'.
+[2023.02.04-15.24.54:593][402]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.04-15.24.54:597][402]LogWorld: Bringing World /Game/Liam_Enemy/UEDPIE_0_LiamTestLevel.LiamTestLevel up for play (max tick rate 0) at 2023.02.04-15.24.54
+[2023.02.04-15.24.54:598][402]LogWorld: Bringing up level for play took: 0.004930
+[2023.02.04-15.24.54:603][402]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.02.04-15.24.54:609][402]PIE: Server logged in
+[2023.02.04-15.24.54:610][402]PIE: Play in editor total start time 0.322 seconds.
+[2023.02.04-15.24.54:808][404]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] In new Room
+[2023.02.04-15.24.54:808][404]LogBlueprintUserMessages: [Room_BP_C_1] Hello
+[2023.02.04-15.24.59:025][840]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] 10
+[2023.02.04-15.24.59:025][840]LogBlueprintUserMessages: [Enemy_BP_C_1] 75
+[2023.02.04-15.25.02:033][196]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] 20
+[2023.02.04-15.25.02:033][196]LogBlueprintUserMessages: [Enemy_BP_C_1] 50
+[2023.02.04-15.25.05:037][554]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] 30
+[2023.02.04-15.25.05:037][554]LogBlueprintUserMessages: [Enemy_BP_C_1] 25
+[2023.02.04-15.25.08:042][914]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] 40
+[2023.02.04-15.25.08:042][914]LogBlueprintUserMessages: [Enemy_BP_C_1] 0
+[2023.02.04-15.25.08:042][914]LogBlueprintUserMessages: [Enemy_BP_C_1] disable character niovenebt]
+[2023.02.04-15.25.13:833][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.25.13:833][590]LogWorld: BeginTearingDown for /Game/Liam_Enemy/UEDPIE_0_LiamTestLevel
+[2023.02.04-15.25.13:833][590]LogWorld: UWorld::CleanupWorld for LiamTestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.25.13:833][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.25.13:862][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-15.25.13:870][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.25.13:933][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.25.13:936][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.02.04-15.25.13:937][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.02.04-15.25.13:962][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.02.04-15.25.14:059][591]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.02.04-15.25.14:097][591]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.04-15.25.16:998][856]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.04-15.25.18:716][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.18:781][ 48]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.18:833][ 53]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.18:878][ 58]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.18:927][ 62]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.18:966][ 66]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:017][ 71]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:055][ 75]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:107][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:162][ 85]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:254][ 95]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:357][106]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:447][115]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:537][125]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:608][133]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:683][140]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:734][145]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.19:797][152]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.20:532][227]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.23:208][485]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-15.25.23:216][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-15.25.23:216][485]PIE: New page: PIE session: LiamTestLevel (4 Feb 2023, 15:25:23)
+[2023.02.04-15.25.23:216][485]LogPlayLevel: Creating play world package: /Game/Liam_Enemy/UEDPIE_0_LiamTestLevel
+[2023.02.04-15.25.23:222][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005160s)
+[2023.02.04-15.25.23:222][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Liam_Enemy/LiamTestLevel.LiamTestLevel to /Game/Liam_Enemy/UEDPIE_0_LiamTestLevel.LiamTestLevel (0.005250s)
+[2023.02.04-15.25.23:222][485]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.25.23:222][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.25.23:223][485]LogAIModule: Creating AISystem for world LiamTestLevel
+[2023.02.04-15.25.23:223][485]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2023.02.04-15.25.23:263][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.04-15.25.23:267][485]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.02.04-15.25.23:267][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-15.25.23:267][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-15.25.23:267][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-15.25.23:267][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-15.25.23:267][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-15.25.23:267][485]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-15.25.23:267][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-15.25.23:267][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-15.25.23:268][485]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-15.25.23:268][485]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-15.25.23:268][485]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-15.25.23:271][485]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-15.25.23:412][485]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2023.02.04-15.25.23:413][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-15.25.23:413][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-15.25.23:413][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-15.25.23:414][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2023.02.04-15.25.23:415][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2023.02.04-15.25.23:417][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2023.02.04-15.25.23:417][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2023.02.04-15.25.23:417][485]LogInit: FAudioDevice initialized.
+[2023.02.04-15.25.23:417][485]LogAudio: Display: Audio Device (ID: 52) registered with world 'LiamTestLevel'.
+[2023.02.04-15.25.23:446][485]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.04-15.25.23:449][485]LogWorld: Bringing World /Game/Liam_Enemy/UEDPIE_0_LiamTestLevel.LiamTestLevel up for play (max tick rate 0) at 2023.02.04-15.25.23
+[2023.02.04-15.25.23:451][485]LogWorld: Bringing up level for play took: 0.004526
+[2023.02.04-15.25.23:456][485]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.02.04-15.25.23:461][485]PIE: Server logged in
+[2023.02.04-15.25.23:462][485]PIE: Play in editor total start time 0.246 seconds.
+[2023.02.04-15.25.23:711][496]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] In new Room
+[2023.02.04-15.25.23:711][496]LogBlueprintUserMessages: [Room_BP_C_1] Hello
+[2023.02.04-15.25.26:184][784]LogBlueprintUserMessages: [EnemyHealer_BP_C_1] -1.0
+[2023.02.04-15.25.26:184][784]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] -10
+[2023.02.04-15.25.29:044][124]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] 0
+[2023.02.04-15.25.29:044][124]LogBlueprintUserMessages: [Enemy_BP_C_1] 75
+[2023.02.04-15.25.32:047][483]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] 10
+[2023.02.04-15.25.32:047][483]LogBlueprintUserMessages: [Enemy_BP_C_1] 50
+[2023.02.04-15.25.35:052][835]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] 20
+[2023.02.04-15.25.35:052][835]LogBlueprintUserMessages: [Enemy_BP_C_1] 25
+[2023.02.04-15.25.38:062][194]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] 30
+[2023.02.04-15.25.38:062][194]LogBlueprintUserMessages: [Enemy_BP_C_1] 0
+[2023.02.04-15.25.38:062][194]LogBlueprintUserMessages: [Enemy_BP_C_1] disable character niovenebt]
+[2023.02.04-15.25.53:733][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.25.53:733][ 31]LogWorld: BeginTearingDown for /Game/Liam_Enemy/UEDPIE_0_LiamTestLevel
+[2023.02.04-15.25.53:733][ 31]LogWorld: UWorld::CleanupWorld for LiamTestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.25.53:733][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.25.53:755][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-15.25.53:765][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.25.53:820][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.25.53:821][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.02.04-15.25.53:823][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.02.04-15.25.53:830][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.25.53:833][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.04-15.25.53:878][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.02.04-15.25.56:674][287]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.04-15.25.57:928][418]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.58:919][529]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.59:006][538]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.59:147][554]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.59:219][562]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.25.59:657][607]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:054][769]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:110][775]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:146][779]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:192][784]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:238][789]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:292][795]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:346][801]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:400][807]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:455][813]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:494][817]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:540][822]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:593][828]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:656][835]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:709][841]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.01:929][866]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:065][881]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:138][889]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:194][895]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:247][901]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:302][907]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:432][921]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:541][932]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:805][961]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:878][969]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:933][975]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.02:978][980]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.03:043][987]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.03:125][996]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.03:504][ 32]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.05:350][237]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.05:412][244]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.05:475][251]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.05:544][259]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.05:600][265]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.05:654][271]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.05:752][282]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.05:851][293]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.06:463][356]LogNavigationDataBuild: Navigation data generation finished in /Game/Liam_Enemy/LiamTestLevel.
+[2023.02.04-15.26.11:342][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.02.04-15.26.11:408][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Liam_Enemy/LiamTestLevel" FILE="D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/Content/Liam_Enemy/LiamTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-15.26.11:470][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.02.04-15.26.11:488][794]LogSavePackage: Moving output files for package: /Game/Liam_Enemy/LiamTestLevel
+[2023.02.04-15.26.11:489][794]LogSavePackage: Moving 'D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/Saved/LiamTestLevel4526001743DA8CD746A3DCADA377ECBB.tmp' to 'D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/Content/Liam_Enemy/LiamTestLevel.umap'
+[2023.02.04-15.26.11:505][794]LogFileHelpers: Saving map 'LiamTestLevel' took 0.098
+[2023.02.04-15.26.11:559][794]AssetCheck: New page: Asset Save: LiamTestLevel
+[2023.02.04-15.26.11:559][794]LogContentValidation: Display: Validating World /Game/Liam_Enemy/LiamTestLevel.LiamTestLevel
+[2023.02.04-15.26.49:821][507]BlueprintLog: New page: Compile Enemy_BP
+[2023.02.04-15.26.49:897][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.02.04-15.26.50:391][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Liam_Enemy/Enemy_BP" FILE="D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/Content/Liam_Enemy/Enemy_BP.uasset" SILENT=true
+[2023.02.04-15.26.50:426][529]LogSavePackage: Moving output files for package: /Game/Liam_Enemy/Enemy_BP
+[2023.02.04-15.26.50:428][529]LogSavePackage: Moving 'D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/Saved/Enemy_BP7088C59243544086888B289BB2DF6B88.tmp' to 'D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/Content/Liam_Enemy/Enemy_BP.uasset'
+[2023.02.04-15.26.50:447][529]AssetCheck: New page: Asset Save: Enemy_BP
+[2023.02.04-15.26.50:447][529]LogContentValidation: Display: Validating Blueprint /Game/Liam_Enemy/Enemy_BP.Enemy_BP
+[2023.02.04-15.36.11:685][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.04-15.36.11:708][577]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Liam_Enemy/LiamTestLevel_Auto6
+[2023.02.04-15.36.11:709][577]LogSavePackage: Moving 'D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/Saved/LiamTestLevel_Auto6B6E7D1D04C8924965122399C7322B89F.tmp' to 'D:/Day2HardestRoute/Hardest-Route-2/HardestRoute/Saved/Autosaves/Game/Liam_Enemy/LiamTestLevel_Auto6.umap'
+[2023.02.04-15.36.11:715][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Liam_Enemy/LiamTestLevel' took 0.097
+[2023.02.04-15.36.11:715][577]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
