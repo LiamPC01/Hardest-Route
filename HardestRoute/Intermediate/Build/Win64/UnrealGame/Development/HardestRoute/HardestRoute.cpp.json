@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\2001555\\ue5 project\\hardest-route-2\\hardestroute\\intermediate\\source\\hardestroute.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\2001555\\ue5 project\\hardest-route-2\\hardestroute\\intermediate\\build\\win64\\hardestroute\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\2001555\\ue5 project\\hardest-route-2\\hardestroute\\intermediate\\build\\win64\\unrealgame\\development\\hardestroute\\definitions.hardestroute.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

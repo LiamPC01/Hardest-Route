@@ -258,6 +258,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "95E8B3EBE92D357ED0BB8B968E6C55EE351A2800",
+			"Assets": [
+				"/ImagePlate/DefaultImagePlateMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "8C73641D32B7DA2DEF6B40664D0A99BA9A0CD673",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
@@ -599,6 +605,8 @@
 			"Assets": [
 				"/Game/Oli_BPs/Assets/Player-Character/Player_characterCleanedMaterial",
 				"/Game/Oli_BPs/Assets/Finished-Assets/paintings/weird_Mat",
+				"/Game/Oli_BPs/Assets/Finished-Assets/paintings/painting_4_Mat",
+				"/Game/Oli_BPs/Assets/Finished-Assets/paintings/painting_3_Mat",
 				"/Game/Oli_BPs/Assets/Finished-Assets/paintings/painting_2__1__Mat",
 				"/Game/Oli_BPs/Assets/Finished-Assets/paintings/orc_painting_Mat",
 				"/Game/Oli_BPs/Assets/Finished-Assets/Modular-wall/root_wallCleanedMaterial",
@@ -741,6 +749,12 @@
 			"ShaderMapHash": "23B1EF696CB55868211558A2D14ECFFBB29B851A",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "7C0414F3ECCFA65D37368ACC480115FCBEA1A52E",
+			"Assets": [
+				"/Game/Oli_BPs/Cinematic/M_Media"
 			]
 		},
 		{
